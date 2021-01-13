@@ -9,10 +9,15 @@ Todo
 ## Services
 
 Functions
-App service
+
+App service 
+
 App service container
+
 Azure Spring Cloud
+
 AKS
+
 VMs
 
 ## Samples
